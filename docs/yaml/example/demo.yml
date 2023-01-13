@@ -1,0 +1,28 @@
+# YAML对象
+config:
+ vesion: '1.0'
+ name: 'test demo'
+
+# YAML数组
+list:
+ - a
+ - b
+ - c
+ -
+  - A
+  - B
+  - C
+
+# YAML引用
+obj: &obj
+ name: 'tom'
+ age: 23
+
+copyObj:
+  height: 180
+  <<: *obj
+
+&str str2: 'emmm'
+
+str3:
+  dd: *str
