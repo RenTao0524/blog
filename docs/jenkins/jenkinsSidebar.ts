@@ -7,10 +7,10 @@ export const jenkinsSidebar = {
             text: '参考资料',
             link: "/jenkins/index.md"
           },
-        //   {
-        //     text: 'docker使用',
-        //     link: "/docker/dockeruse.md"
-        //   },
+          {
+            text: 'jenkins安装',
+            link: "/jenkins/jenkinsinstall.md"
+          },
         ],
       },
     ],
