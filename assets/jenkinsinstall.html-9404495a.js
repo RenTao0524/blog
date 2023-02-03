@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-42c0eb3c","path":"/jenkins/jenkinsinstall.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1675394114000,"contributors":[{"name":"uf203125","email":"Tao.Ren@partner.lingyue-digital.com","commits":1}]},"filePathRelative":"jenkins/jenkinsinstall.md"}');export{e as data};

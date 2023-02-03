@@ -1,0 +1,1 @@
+import{_ as a,p as t,q as n,Q as e,t as r}from"./framework-f385dd5f.js";const c={},s=e("h2",{id:"lerna",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#lerna","aria-hidden":"true"},"#"),r(" lerna")],-1),o=[s];function _(d,i){return t(),n("div",null,o)}const h=a(c,[["render",_],["__file","index.html.vue"]]);export{h as default};

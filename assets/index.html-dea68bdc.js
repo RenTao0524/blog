@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1599db0f","path":"/yaml/","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"YAML学习资料","slug":"yaml学习资料","link":"#yaml学习资料","children":[]}],"git":{"updatedTime":1673601934000,"contributors":[{"name":"RenTao0524","email":"912683552@qq.com","commits":1}]},"filePathRelative":"yaml/index.md"}');export{e as data};

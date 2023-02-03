@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f0a58f48","path":"/lerna/","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"lerna","slug":"lerna","link":"#lerna","children":[]}],"git":{"updatedTime":1673601934000,"contributors":[{"name":"RenTao0524","email":"912683552@qq.com","commits":1}]},"filePathRelative":"lerna/index.md"}');export{e as data};

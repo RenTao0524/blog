@@ -1,0 +1,1 @@
+import{_ as d,p as a,q as t,Q as e,t as r}from"./framework-f385dd5f.js";const c={},n=e("h2",{id:"guide-readme-md",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#guide-readme-md","aria-hidden":"true"},"#"),r(" guide readme.md")],-1),s=[n];function o(i,_){return a(),t("div",null,s)}const h=d(c,[["render",o],["__file","index.html.vue"]]);export{h as default};
